@@ -1,0 +1,1 @@
+"""CPU-only video enhancement pipeline."""

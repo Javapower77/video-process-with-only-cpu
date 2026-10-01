@@ -1,0 +1,14 @@
+.env
+venv/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+bin/
+weights/
+gfpgan/
+temp/
+outputs/
+logs/
+.cache/
